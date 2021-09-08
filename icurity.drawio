@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T12:43:09.741Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="7B37-9s3qKWzuDbUv1bL" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T12:48:29.912Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZlJnDbtP12pu1L3yUv6k" version="14.9.8" type="github">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps">
     <mxGraphModel dx="1171" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Developers&amp;nbsp;&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
