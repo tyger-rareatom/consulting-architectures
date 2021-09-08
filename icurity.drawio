@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T12:49:28.901Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ZPEemMmVgF8-Yqv-5ECU" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T12:53:32.729Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9Kv7BRAIDZptojEmFHTy" version="14.9.8" type="github">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps">
     <mxGraphModel dx="1171" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,11 +7,16 @@
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ea0yjk5CYWSuDGqNt53Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ea0yjk5CYWSuDGqNt53Y-2" target="ea0yjk5CYWSuDGqNt53Y-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ea0yjk5CYWSuDGqNt53Y-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="404" y="380" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Developers&amp;nbsp;&lt;/font&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
           <mxGeometry x="365" y="280" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-4" value="EVENTS - PUSH &amp;amp; PULL REQUESTS TO ALL BRANCHES&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
