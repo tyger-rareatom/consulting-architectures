@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T14:52:03.796Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="-1qbQ6wNvxZyE05s1d98" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T15:04:17.075Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="8wgEosxz5SVPhDKOUTyR" version="14.9.8" type="github">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps">
     <mxGraphModel dx="1171" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,14 +64,26 @@
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ea0yjk5CYWSuDGqNt53Y-16" target="ea0yjk5CYWSuDGqNt53Y-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ea0yjk5CYWSuDGqNt53Y-16" target="ea0yjk5CYWSuDGqNt53Y-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-16" value="is Passed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-19" value="Some of the checks&amp;nbsp;&lt;br&gt;1)Ensure that unit tests is about &amp;gt;= 80%&lt;br&gt;2)Ensure that security hotspots or vulnerabilities are detected&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="650" width="220" height="100" as="geometry" />
+          <mxGeometry x="560" y="640" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ea0yjk5CYWSuDGqNt53Y-20" value="Start&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-20" value="Start Unit Tests&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-22" value="True&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="780" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-23" value="Terminate build process and notify concerned parties via email or teams&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ea0yjk5CYWSuDGqNt53Y-25" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
