@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T22:57:10.026Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="9Zq0n2fEiwhzRTKJKoJx" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T22:58:12.326Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="awPvj0QgQNdQNoryuBa2" version="14.9.8" type="github">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1171" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry x="354.01" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-14" value="SonarQube ensures that quality controls are set for the code bases and proper security scans are done for each code pushed to the repositories&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="590" y="430" width="210" height="90" as="geometry" />
+          <mxGeometry x="610" y="420" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-19" value="Some of the checks&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;1)Ensure that unit tests is about &amp;gt;= 80%&lt;br style=&quot;font-size: 16px;&quot;&gt;2)Ensure that security hotspots or vulnerabilities are detected&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="560" y="650" width="270" height="120" as="geometry" />
+          <mxGeometry x="580" y="660" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="ea0yjk5CYWSuDGqNt53Y-20" target="ea0yjk5CYWSuDGqNt53Y-26">
           <mxGeometry relative="1" as="geometry" />
