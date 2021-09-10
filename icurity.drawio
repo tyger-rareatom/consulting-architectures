@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T07:20:57.224Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CmGQc4pnfv5aekbVH2F-" version="15.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T19:29:47.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="5lpugmkTuosvcw3NKpv0" version="15.1.2" type="github" pages="2">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
-    <mxGraphModel dx="1171" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,14 @@
         <mxCell id="ea0yjk5CYWSuDGqNt53Y-52" value="Deploy image to k8s clusters&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="354.01" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D9EITOR7O4QyZbGvjfM8" name="Internal process flow">
+    <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-0" />
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-1" parent="poUGWZ9yRNWVL-yhKG6x-0" />
       </root>
     </mxGraphModel>
   </diagram>
