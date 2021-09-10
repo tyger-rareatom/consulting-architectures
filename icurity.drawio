@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T21:55:58.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wgZHqG9-0QPXNwmTuQJF" version="15.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-10T22:03:03.066Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Wj2xowHnNybJP_423JSa" version="15.1.2" type="github" pages="2">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -247,6 +247,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.416;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="poUGWZ9yRNWVL-yhKG6x-1" source="poUGWZ9yRNWVL-yhKG6x-35" target="poUGWZ9yRNWVL-yhKG6x-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-35" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.automation;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
           <mxGeometry x="815.5" y="-190" width="78" height="81" as="geometry" />
         </mxCell>
@@ -258,6 +261,12 @@
         </mxCell>
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-40" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Successful SCA , Code audit , vulnerability scan , container scan deploys to the environments&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
           <mxGeometry x="870" y="-270" width="187" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-42" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Output vulnerabilities and remediations on pipelines.&lt;br&gt;Send reports to the core team , developers and product owners&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="530" y="-350" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Failures&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="650" y="-190" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
