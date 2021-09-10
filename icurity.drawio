@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T19:29:47.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="5lpugmkTuosvcw3NKpv0" version="15.1.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-10T19:41:07.078Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="ua96nQZT7J-RTLPDggGQ" version="15.1.2" type="github" pages="2">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -143,10 +143,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D9EITOR7O4QyZbGvjfM8" name="Internal process flow">
-    <mxGraphModel dx="1148" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-0" />
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-1" parent="poUGWZ9yRNWVL-yhKG6x-0" />
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="poUGWZ9yRNWVL-yhKG6x-1" source="poUGWZ9yRNWVL-yhKG6x-2" target="poUGWZ9yRNWVL-yhKG6x-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-2" value="Core Team&amp;nbsp;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.users;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="30" y="220" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-3" value="Users" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="310" y="225" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-5" value="Core Team onboards team members by providing them with the required accesses and tools required to commence development&amp;nbsp;&lt;br&gt;e.g&amp;nbsp;&lt;br&gt;cli tools ,&lt;br&gt;JIRA ,&lt;br&gt;Confluence&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="90" y="350" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="poUGWZ9yRNWVL-yhKG6x-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
