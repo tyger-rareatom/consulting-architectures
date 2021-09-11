@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T20:30:35.362Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="S_RoRZ44xQ8HslcfhEtJ" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-11T20:31:45.292Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="iSWIasAYZjuGW14GkKQL" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1117" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -275,7 +275,10 @@
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-1" parent="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-2" value="Third Party&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="140" y="110" width="46.2" height="70" as="geometry" />
+          <mxGeometry x="130" y="150" width="46.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-3" value="Users&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="390" y="27" width="66" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
