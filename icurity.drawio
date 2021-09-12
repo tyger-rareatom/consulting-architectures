@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-11T22:07:01.370Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="h8yXr5XohFYmkroyYXhJ" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T08:04:33.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wP4gRwjVp_Z_yRy0aNgG" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
-    <mxGraphModel dx="1117" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,14 +270,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hySKx1TrMfyPLcB8ALFu" name="External process ">
-    <mxGraphModel dx="1117" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1118" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-1" parent="Mxi8rhD8sQnpdQ2FQJvb-0" />
-        <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-2" value="Third Party&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+        <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-2" value="Third Party&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" parent="Mxi8rhD8sQnpdQ2FQJvb-1" vertex="1">
           <mxGeometry x="120" y="150" width="46.2" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-3" value="Dev Sec Ops Core Team&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+        <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-3" value="Dev Sec Ops Core Team&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" parent="Mxi8rhD8sQnpdQ2FQJvb-1" vertex="1">
           <mxGeometry x="430" y="100" width="66" height="63" as="geometry" />
         </mxCell>
       </root>
