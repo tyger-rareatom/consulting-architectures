@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T10:57:01.200Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="mGhVZ_LaKeJW9uQZ7UzY" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T11:03:43.033Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="lDX87VPWKKh76FqFz_vj" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1162" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -283,7 +283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hySKx1TrMfyPLcB8ALFu" name="External process ">
-    <mxGraphModel dx="2262" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-1" parent="Mxi8rhD8sQnpdQ2FQJvb-0" />
@@ -354,14 +354,14 @@
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-20" target="e6Vrgx8O-iJJi3x6WeHq-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-20" value="Deploy &amp;amp; run desktop application on provisioned vm&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="170" y="510" width="120" height="80" as="geometry" />
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-20" value="Deploy &amp;amp; run desktop application on provisioned vm&lt;br&gt;through automated scripts&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="155" y="510" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-22" target="e6Vrgx8O-iJJi3x6WeHq-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-22" value="Configure OpenVas to scan the environment&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="170" y="610" width="120" height="70" as="geometry" />
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-22" value="Configure NetSparker to scan the environment&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="170" y="630" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-25" target="e6Vrgx8O-iJJi3x6WeHq-27">
           <mxGeometry relative="1" as="geometry" />
@@ -390,8 +390,8 @@
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-32" value="Deploy the application" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="170" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-34" value="Publish scan results for third party and internal via email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="-50" y="725" width="130" height="70" as="geometry" />
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-34" value="Publish scan results for third party for remediation and internal via email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="-60" y="717.5" width="130" height="85" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-36" value="Unacceptable results&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="140" y="720" width="40" height="20" as="geometry" />
