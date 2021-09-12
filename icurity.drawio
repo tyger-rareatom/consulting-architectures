@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T10:32:55.250Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="56iaLVyZCjhAjyxcX8wc" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T10:40:15.190Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="PGjxHT_2Dav8-C24vALB" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
-    <mxGraphModel dx="1118" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D9EITOR7O4QyZbGvjfM8" name="Internal process flow">
-    <mxGraphModel dx="1117" dy="1664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-0" />
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-1" parent="poUGWZ9yRNWVL-yhKG6x-0" />
@@ -266,11 +266,24 @@
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Failures&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="poUGWZ9yRNWVL-yhKG6x-1" vertex="1">
           <mxGeometry x="650" y="-190" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pZkkC9KuIsuwPHXKPhOD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="poUGWZ9yRNWVL-yhKG6x-1" source="pZkkC9KuIsuwPHXKPhOD-0" target="poUGWZ9yRNWVL-yhKG6x-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="-485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pZkkC9KuIsuwPHXKPhOD-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/Infrastructure_Backup.svg;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="610" y="-490" width="60" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="pZkkC9KuIsuwPHXKPhOD-2" value="OpenVas continiously monitors and scans the infrastructures for vulnerabilities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+          <mxGeometry x="526" y="-530" width="328" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="hySKx1TrMfyPLcB8ALFu" name="External process ">
-    <mxGraphModel dx="1162" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-1" parent="Mxi8rhD8sQnpdQ2FQJvb-0" />
@@ -353,13 +366,16 @@
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-25" target="e6Vrgx8O-iJJi3x6WeHq-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-25" target="e6Vrgx8O-iJJi3x6WeHq-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-25" value="is Successful" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="185" y="720" width="90" height="80" as="geometry" />
+          <mxGeometry x="182.5" y="720" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-27" target="e6Vrgx8O-iJJi3x6WeHq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-27" value="Publish scan results for third party and internal vi a email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-27" value="Publish scan results for third party and internal via email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="165" y="840" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-29" value="Scan metrics are accepted&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
@@ -373,6 +389,12 @@
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-32" value="Deploy the application" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="170" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-34" value="Publish scan results for third party and internal via email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="-50" y="725" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-36" value="Unacceptable results&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="140" y="720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
