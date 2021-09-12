@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T12:54:40.483Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="YoqHwcDjCvDHH2XkWpo_" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T13:04:39.281Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Q26l2khZ-POlLK8Tr07v" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1162" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -343,7 +343,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-14" value="Manual antivirus scan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="413" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="413" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="e6Vrgx8O-iJJi3x6WeHq-16" target="ssIdTwnpsLQnx-U2epoG-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-16" value="Manual antivirus scan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="660" y="213" width="120" height="60" as="geometry" />
@@ -410,8 +413,8 @@
             <mxPoint x="473" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q0TYpX_FWzcWOhOUPfjD-2" value="Run mobile publishing pipeline&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="413" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="q0TYpX_FWzcWOhOUPfjD-2" value="Run mobile publishing pipeline generated from cli" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="409.5" y="510" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="q0TYpX_FWzcWOhOUPfjD-6" target="q0TYpX_FWzcWOhOUPfjD-8">
           <mxGeometry relative="1" as="geometry" />
@@ -445,6 +448,21 @@
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-8" value="Send Application Artifacts to Dev SecOps Core Teams&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="134.5" y="30" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="ssIdTwnpsLQnx-U2epoG-9" target="ssIdTwnpsLQnx-U2epoG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-9" value="Generate deployment from cli tools for web applications&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="650" y="320" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="ssIdTwnpsLQnx-U2epoG-11" target="ssIdTwnpsLQnx-U2epoG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-11" value="Update Dockerfile with the web deployment file name or directory" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="655" y="450" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-14" value="Internal process automation kicks off .&lt;br&gt;See Security &amp;amp; the pipeline&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="655" y="580" width="130" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
