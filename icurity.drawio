@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T10:40:15.190Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="PGjxHT_2Dav8-C24vALB" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T10:47:46.358Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XqNeZ6J3QNzc0t_Hii4F" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1162" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -276,7 +276,7 @@
         <mxCell id="pZkkC9KuIsuwPHXKPhOD-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/azure_stack/Infrastructure_Backup.svg;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
           <mxGeometry x="610" y="-490" width="60" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="pZkkC9KuIsuwPHXKPhOD-2" value="OpenVas continiously monitors and scans the infrastructures for vulnerabilities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
+        <mxCell id="pZkkC9KuIsuwPHXKPhOD-2" value="OpenVas or Netsparker continuosly monitors and scans the infrastructures for vulnerabilities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
           <mxGeometry x="526" y="-530" width="328" height="20" as="geometry" />
         </mxCell>
       </root>
