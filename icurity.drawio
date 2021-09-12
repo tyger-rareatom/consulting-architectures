@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T12:46:44.330Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wqfMrtgXrkJVPx1ayJ8r" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T12:50:04.989Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="a717rPOZt0KLQSxpvnyj" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1162" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -422,8 +422,23 @@
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-8" value="Run automated pen tests with quark&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="394.5" y="720" width="157" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="ssIdTwnpsLQnx-U2epoG-0" target="ssIdTwnpsLQnx-U2epoG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="ssIdTwnpsLQnx-U2epoG-0" target="ssIdTwnpsLQnx-U2epoG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-0" value="is Successful" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="424.5" y="840" width="97" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-2" value="Publish to relevant appstore or enterprise store&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="409.5" y="980" width="127" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-4" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="497" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ssIdTwnpsLQnx-U2epoG-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="590" y="855" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
