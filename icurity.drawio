@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T08:04:33.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="wP4gRwjVp_Z_yRy0aNgG" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T09:29:50.920Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="CUWwGPQwAZ2zyXQ7FC8Z" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1118" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -274,11 +274,31 @@
       <root>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-0" />
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-1" parent="Mxi8rhD8sQnpdQ2FQJvb-0" />
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="Mxi8rhD8sQnpdQ2FQJvb-2" target="Mxi8rhD8sQnpdQ2FQJvb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="85" />
+              <mxPoint x="288" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-2" value="Third Party&amp;nbsp;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/users.svg;" parent="Mxi8rhD8sQnpdQ2FQJvb-1" vertex="1">
-          <mxGeometry x="120" y="150" width="46.2" height="70" as="geometry" />
+          <mxGeometry x="100" y="50" width="46.2" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="Mxi8rhD8sQnpdQ2FQJvb-3" target="e6Vrgx8O-iJJi3x6WeHq-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mxi8rhD8sQnpdQ2FQJvb-3" value="Dev Sec Ops Core Team&amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" parent="Mxi8rhD8sQnpdQ2FQJvb-1" vertex="1">
           <mxGeometry x="430" y="100" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-1" value="Desktop Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-2" value="Mobile Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6Vrgx8O-iJJi3x6WeHq-3" value="Web Application&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
