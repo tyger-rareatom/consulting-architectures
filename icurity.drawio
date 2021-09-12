@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T10:47:46.358Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="XqNeZ6J3QNzc0t_Hii4F" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T10:57:01.200Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="mGhVZ_LaKeJW9uQZ7UzY" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1162" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D9EITOR7O4QyZbGvjfM8" name="Internal process flow">
-    <mxGraphModel dx="1162" dy="1845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-0" />
         <mxCell id="poUGWZ9yRNWVL-yhKG6x-1" parent="poUGWZ9yRNWVL-yhKG6x-0" />
@@ -277,7 +277,7 @@
           <mxGeometry x="610" y="-490" width="60" height="69" as="geometry" />
         </mxCell>
         <mxCell id="pZkkC9KuIsuwPHXKPhOD-2" value="OpenVas or Netsparker continuosly monitors and scans the infrastructures for vulnerabilities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="poUGWZ9yRNWVL-yhKG6x-1">
-          <mxGeometry x="526" y="-530" width="328" height="20" as="geometry" />
+          <mxGeometry x="526" y="-540" width="328" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
