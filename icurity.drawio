@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T13:28:47.753Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="UjmuQCBSNZTgIEFUVFQ6" version="15.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-12T13:35:39.373Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="T4Frnez_HCoi-w5alGVw" version="15.1.4" type="github" pages="3">
   <diagram id="6XGJqjT74cjKN67CY4M7" name="DevSecOps Flow">
     <mxGraphModel dx="1621" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-29" value="Acceptable Results&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="45.5" y="880" width="155.5" height="20" as="geometry" />
+          <mxGeometry x="284.5" y="760" width="155.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="e6Vrgx8O-iJJi3x6WeHq-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" target="e6Vrgx8O-iJJi3x6WeHq-32">
           <mxGeometry relative="1" as="geometry">
@@ -377,14 +377,19 @@
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="q0TYpX_FWzcWOhOUPfjD-0" target="q0TYpX_FWzcWOhOUPfjD-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9EoaDsEWlBpfEqa1Dp-0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="q0TYpX_FWzcWOhOUPfjD-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-0" value="is Consumer Facing&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="208" y="340" width="113" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9EoaDsEWlBpfEqa1Dp-0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="q0TYpX_FWzcWOhOUPfjD-2" target="q0TYpX_FWzcWOhOUPfjD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q0TYpX_FWzcWOhOUPfjD-2" value="Generate cli to" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="201" y="470" width="127" height="60" as="geometry" />
+        <mxCell id="q0TYpX_FWzcWOhOUPfjD-2" value="Generate pipeline from cli tools for mobile apps&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="201" y="480" width="127" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="q0TYpX_FWzcWOhOUPfjD-6" target="q0TYpX_FWzcWOhOUPfjD-8">
           <mxGeometry relative="1" as="geometry" />
@@ -396,7 +401,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q0TYpX_FWzcWOhOUPfjD-8" value="Run automated pen tests with quark&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="186" y="690" width="157" height="90" as="geometry" />
+          <mxGeometry x="192.5" y="680" width="144" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1" source="ssIdTwnpsLQnx-U2epoG-0" target="ssIdTwnpsLQnx-U2epoG-2">
           <mxGeometry relative="1" as="geometry" />
@@ -405,16 +410,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-0" value="is Successful" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="424.5" y="840" width="97" height="90" as="geometry" />
+          <mxGeometry x="216" y="780" width="97" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-2" value="Publish to relevant appstore or enterprise store&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="409.5" y="980" width="127" height="90" as="geometry" />
+          <mxGeometry x="335.25" y="900" width="127" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-4" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="497" y="940" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="850" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-5" value="Output findings to NetSparker , Log an Issue&amp;nbsp;&lt;br&gt;Send emails" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
-          <mxGeometry x="590" y="847.5" width="150" height="75" as="geometry" />
+          <mxGeometry x="30" y="787.5" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-8" value="Send Application Artifacts to Dev SecOps Core Teams&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="134.5" y="30" width="260" height="20" as="geometry" />
@@ -433,6 +438,18 @@
         </mxCell>
         <mxCell id="ssIdTwnpsLQnx-U2epoG-14" value="Internal process automation kicks off .&lt;br&gt;See Security &amp;amp; the pipeline slide for details&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
           <mxGeometry x="641.25" y="570" width="157.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9EoaDsEWlBpfEqa1Dp-0-2" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="281" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9EoaDsEWlBpfEqa1Dp-0-3" value="Perform manual security audit &amp;amp; vulnerability assessment&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="10" y="355" width="117" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="9EoaDsEWlBpfEqa1Dp-0-5" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="134.5" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9EoaDsEWlBpfEqa1Dp-0-6" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Mxi8rhD8sQnpdQ2FQJvb-1">
+          <mxGeometry x="192.5" y="850" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
