@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T11:55:45.160Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="WUgARgBmNcoUVf8-Akyt" version="15.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-04T11:58:02.393Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="axCTK5FQssPyo7jIfSc-" version="15.3.0" type="github" pages="2">
   <diagram id="LiROaHDbDjbt8Th-SdVK" name="High Traffic Deployment Strategy">
     <mxGraphModel dx="1143" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="AiboDtJ9R0Fxvv5TWRiH-9" value="All outbound traffic goes through one ip which is the egress ip&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="AiboDtJ9R0Fxvv5TWRiH-1">
           <mxGeometry x="440" y="530" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AiboDtJ9R0Fxvv5TWRiH-10" value="Diameter server sees all traffic as coming from one source ip&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="AiboDtJ9R0Fxvv5TWRiH-1">
+          <mxGeometry x="680" y="290" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
